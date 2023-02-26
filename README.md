@@ -1,4 +1,4 @@
-# Kaggle-s-Featured-Prediction-Competition---Santander-Customer-Satisfaction
+# Kaggle's Featured Prediction Competition - Satander Customer Satisfaction
 
 Trong dự án này, chúng ta sẽ sử dụng tập Dataset [Santander Customer Satisfaction](https://www.kaggle.com/c/santander-customer-satisfaction/overview) - 
 đến từ kì thi **Kaggle Featured Prediction Competition** - làm việc với hàng trăm đặc trưng ẩn danh
